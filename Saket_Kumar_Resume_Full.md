@@ -1,6 +1,6 @@
 # Saket Kumar
 
-[City, Country / Remote-friendly] | [Phone Number] | [Email Address] | [LinkedIn Profile URL] | [GitHub/Portfolio URL]
+Pune, India (Remote-friendly) | +91 8698625081 | saket3k@gmail.com | linkedin.com/in/saket3k | github.com/saketk3k
 
 ---
 
